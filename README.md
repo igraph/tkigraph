@@ -6,7 +6,8 @@
 <!-- badges: end -->
 
 The goal of tkigraph is to make the tkigraph functionality 
-that we removed from igraph available to potential former uses.
+that we removed from igraph available to users who
+might be still using it.
 
 ## Installation
 
